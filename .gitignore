@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+lib
+.idea
+bin
+.DS_Store
+.Python
+demo_py.iml
